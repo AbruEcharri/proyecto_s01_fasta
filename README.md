@@ -2,7 +2,7 @@
 
 Este proyecto consiste en el procesamiento, estructuración y análisis exploratorio de datos (EDA) del proteoma de la bacteria _Escherichia coli_ (cepa K-12 MG1655), uno de los organismos modelo más importantes en la biología molecular.
 
-El objetivo principal es transformar datos biológicos crudos (formato FASTA) en información estructurada para extraer _insights_ sobre los patrones ocultos en sus proteínas y cómo la bacteria optimiza sus recursos."
+El objetivo principal es transformar datos biológicos crudos (formato FASTA) en información estructurada para extraer _insights_ sobre los patrones ocultos en sus proteínas y cómo la bacteria optimiza sus recursos.
 
 ## 📌 Estructura del Proyecto
 
